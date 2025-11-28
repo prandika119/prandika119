@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Andika Dwi Prasetya
 
-Saya adalah mahasiswa Vokasi di Universitas Gadjah Mada (UGM), Program Studi Teknologi Rekayasa Perangkat Lunak, saat ini semester 5. Saya memiliki minat utama di bidang **Web Development**, khususnya pada pengembangan aplikasi backend. Saya senang mempelajari teknologi baru dan bersemangat membangun berbagai jenis aplikasi.
+I am a Vocational Student at Universitas Gadjah Mada (UGM), majoring in Software Engineering Technology, currently in my 5th semester. I have a strong interest in **Web Development**, especially backend development. I am passionate about learning new technologies and excited about building various types of applications.
 
 ---
 
 ## 🌟 About Me
 - 📍 Yogyakarta, Indonesia
-- 🎓 Mahasiswa Vokasi Universitas Gadjah Mada (UGM)
-- 📚 Semester 5, Teknologi Rekayasa Perangkat Lunak
-- 💻 Tertarik pada pengembangan **backend** & DevOps dasar
-- 🚀 Terbiasa dengan pengembangan aplikasi, deployment & automasi
+- 🎓 Vocational Student at Universitas Gadjah Mada (UGM)
+- 📚 5th Semester, Software Engineering Technology
+- 💻 Interested in **backend development** & basic DevOps
+- 🚀 Experienced in application development, deployment & automation
 
 ---
 
@@ -24,51 +24,51 @@ Saya adalah mahasiswa Vokasi di Universitas Gadjah Mada (UGM), Program Studi Tek
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-- **Backend:** Laravel, PHP, Golang, Javascript
+- **Backend:** Laravel, PHP, Golang, JavaScript
 - **Frontend:** Laravel Blade, HTML, CSS
 - **Database:** MySQL, Supabase (PostgreSQL)
-- **CI/CD:** Dasar
-- **Docker:** Dasar, deploy sederhana
-- **API:** RESTful, webhook, automasi
-- **Platform:** Linux/Ubuntu Server Deployment
+- **CI/CD:** Basic
+- **Docker:** Basic usage and deployment
+- **API:** RESTful, webhook, automation
+- **Platform:** Linux/Ubuntu server deployment
 
 ---
 
 ## 💡 My Projects
 
-### 1. [Sistem Informasi Penyewaan Lapangan (Backend - API)](https://github.com/prandika119/api-skyclub)
+### 1. [Sports Field Rental Information System (Backend - API)](https://github.com/prandika119/api-skyclub)
 > **Stack:** Laravel (Backend) + Laravel Blade (Frontend)  
-Aplikasi untuk mengelola penyewaan lapangan, memiliki fitur pemisahan antara frontend dan backend repo, sudah pernah di-deploy penuh ke server.
+An application for managing sports field rentals, featuring separated frontend and backend repositories, and has been deployed on a production server.
 
-- Otentikasi, CRUD jadwal & transaksi, laporan, booking online
+- Authentication, schedule & transaction CRUD, reporting, online booking
 
-### 2. [Chatbot n8n untuk Review Hotel](https://github.com/username/repo-chatbot)
+### 2. [Hotel Review Chatbot with n8n](https://github.com/username/repo-chatbot)
 > **Stack:** n8n, Supabase, Gemini API, Ollama  
-Chatbot otomatis berbasis workflow engine yang menjawab review hotel dari berbagai sumber data secara real-time.
+A chatbot based on a workflow engine that answers hotel review-related questions from various data sources in real-time.
 
-- Integrasi API & database, workflow logic di n8n
-- Digunakan untuk tanya jawab otomatis terkait ulasan hotel
+- API & database integration, workflow logic in n8n
+- Used for automatic Q&A relating to hotel reviews
 
 ### 3. [Todolist CLI App - Golang](https://github.com/username/task-tracker)
 > **Stack:** Go (Golang)  
-Aplikasi command line sederhana untuk mencatat dan mengelola to-do list.
+A simple command line application to manage to-do lists.
 
-- CRUD task sederhana, berbasis terminal
+- Basic task CRUD, terminal-based interface
 
 ---
 
 ## 🏆 Experiences
 
-- **Magang Web Developer (Laravel), Digital Hero**  
-  &nbsp;&nbsp;&nbsp;Membangun dan mengembangkan fitur aplikasi menggunakan Laravel – (3 bulan)
-- **Magang Web Developer (Laravel), PT Jaya Perkasa Mandalika**  
-  &nbsp;&nbsp;&nbsp;Mengimplementasikan API & fitur backend Laravel – (2 bulan)
+- **Web Developer Intern (Laravel), Digital Hero**  
+  &nbsp;&nbsp;&nbsp;Developed and maintained application features using Laravel – (3 months)
+- **Web Developer Intern (Laravel), PT Jaya Perkasa Mandalika**  
+  &nbsp;&nbsp;&nbsp;Implemented APIs & backend features with Laravel – (2 months)
 
 ---
 
 ## 🎯 Current Focus
 
-Saat ini, saya sedang mendalami pengembangan aplikasi backend serta memperluas wawasan DevOps (CI/CD & deployment).
+Currently, I am focused on deepening my backend development expertise as well as expanding my knowledge in DevOps (CI/CD & deployment).
 
 ---
 
