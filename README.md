@@ -55,7 +55,7 @@ A simple mosque management system
 
 - Basic task CRUD, terminal-based interface
 
-### 4. [Todolist CLI App - Golang](https://github.com/username/task-tracker)
+### 4. [Todolist CLI App - Golang](https://github.com/prandika119/task_tracker)
 > **Stack:** Go (Golang)  
 A simple command line application to manage to-do lists.
 
