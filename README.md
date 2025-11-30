@@ -42,18 +42,26 @@ An application for managing sports field rentals, featuring separated frontend a
 
 - Authentication, schedule & transaction CRUD, reporting, online booking
 
-### 2. [Hotel Review Chatbot with n8n](https://github.com/username/repo-chatbot)
+### 2. [Hotel Review Chatbot with n8n](https://github.com/prandika119/roboai-chatbot-n8n)
 > **Stack:** n8n, Supabase, Gemini API, Ollama  
 A chatbot based on a workflow engine that answers hotel review-related questions from various data sources in real-time.
 
 - API & database integration, workflow logic in n8n
 - Used for automatic Q&A relating to hotel reviews
 
-### 3. [Todolist CLI App - Golang](https://github.com/username/task-tracker)
+### 3. [Mosque Information System - PHP](https://github.com/prandika119/WebSistemInformasiMasjid-ProjekUAS2)
+> **Stack:** PHP + Vanila Javascript  
+A simple mosque management system
+
+- Basic task CRUD, terminal-based interface
+
+### 4. [Todolist CLI App - Golang](https://github.com/username/task-tracker)
 > **Stack:** Go (Golang)  
 A simple command line application to manage to-do lists.
 
 - Basic task CRUD, terminal-based interface
+
+
 
 ---
 
